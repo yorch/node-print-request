@@ -1,0 +1,18 @@
+{
+  "name": "node-print-request",
+  "version": "1.0.0",
+  "description": "Simple NodeJS server that prints to console the request body.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Barnaby <jorge {dot} barnaby {at} gmail {dot} com>",
+  "license": "MIT",
+  "dependencies": {
+    "body": "^5.0.0",
+    "colors": "^1.0.3",
+    "express": "^4.11.2",
+    "morgan": "^1.5.1",
+    "util": "^0.10.3"
+  }
+}
