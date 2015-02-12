@@ -20,3 +20,9 @@ During development, when constant changes are made to `app.js`, is more convenie
 To test the server, `curl` can be use this way:
 
     curl --data "my data" http://127.0.0.1:5000
+
+
+License
+-------
+
+This projected is licensed under the terms of the MIT license.
