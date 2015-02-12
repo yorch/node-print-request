@@ -1,5 +1,5 @@
-NodeJS Print Request to Console
-===============================
+NodeJS Print POST Request to Console
+====================================
 
 To run the server:
 
@@ -16,3 +16,7 @@ During development, when constant changes are made to `app.js`, is more convenie
 
     # Run server
     nodemon app.js
+
+To test the server, `curl` can be use this way:
+
+    curl --data "my data" http://127.0.0.1:5000
